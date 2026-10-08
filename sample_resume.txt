@@ -1,0 +1,21 @@
+John Doe
+Email: john.doe@example.com
+Phone: +91 9876543210
+LinkedIn: linkedin.com/in/johndoe
+GitHub: github.com/johndoe
+
+Summary:
+Motivated Software Developer and MCA student with strong background in Python, Web Development, Machine Learning, SQL, REST APIs, and Docker.
+
+Skills:
+Python, Django, FastAPI, React, SQL, PostgreSQL, MongoDB, Docker, Git, REST APIs, Machine Learning, Data Science
+
+Education:
+Master of Computer Applications (MCA) - 2024
+Bachelor of Computer Applications (BCA) - 2022
+
+Experience:
+Software Engineering Intern at Tech Innovators (2023 - Present)
+- Developed backend microservices using Python and Django.
+- Implemented RESTful APIs and connected PostgreSQL databases.
+- Integrated Docker containerized deployments.
